@@ -5,6 +5,8 @@
 
 习惯用kindle 看小说， sf自身下载要自己改txt的名字， 双休日不提供下载， 所以写了这个爬虫
 
-## 依赖第三方库 beautifulsoup4， requests
+## 需要python3.5
 
-现在还很不完善， 打算找个时间重写一下
+使用了async await 这两个新的关键字
+
+
